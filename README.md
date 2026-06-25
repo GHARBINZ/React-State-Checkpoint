@@ -9,7 +9,7 @@
 | Item | Detail |
 |---|---|
 | **Project name** | React Profile Card |
-| **Author** | Mohamed Amine Harbi |
+| **Author** | Mohamed Amine GHarbi |
 | **Bootcamp** | GoMyCode |
 | **Goal** | Demonstrate class-based React components, local state, conditional rendering, and the component lifecycle |
 
@@ -152,7 +152,7 @@ componentWillUnmount() {
 
 ## 👤 Author
 
-**Mohamed Amine Harbi**  
+**Mohamed Amine Gharbi**  
 Software Engineer · GoMyCode Student  
 
 ---
